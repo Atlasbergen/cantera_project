@@ -1,0 +1,5 @@
+# ignore .vscode folder
+.vscode/
+
+# ignore tutorial folder
+cantera_tutorial_files/
